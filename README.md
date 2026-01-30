@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alae</h1>
 <h3 align="center">A junior software engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **DevOps and Mobile dev**
+- 🌱 I’m currently learning **DevOps**
 
 - ⚡ Fun fact **I love Java!**
 
