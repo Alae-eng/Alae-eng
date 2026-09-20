@@ -10,7 +10,6 @@
 <p align="center">
 I'm a final year software engineering student at <b>ENSIAS</b>, focused on full stack development and distributed systems, building things like CI/CD pipelines, data pipelines, and cloud-native services. I like working close to infrastructure as much as I like writing application code.
 <br><br>
-🎓 Currently looking for a <b>PFE internship starting January/February 2027</b> 
 </p>
 
 <br>
@@ -77,15 +76,12 @@ I'm a final year software engineering student at <b>ENSIAS</b>, focused on full 
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 
 <br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1200&color=2EF67C&center=true&vCenter=true&width=320&height=30&lines=%24+git+log+--stat" alt="GitHub Stats" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alae-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alae-eng&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+**Be curious**
 
 </div>
+
 
 <br>
 
