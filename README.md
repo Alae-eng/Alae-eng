@@ -7,10 +7,7 @@
 
 <br>
 
-<p align="center">
-I'm a final year software engineering student at <b>ENSIAS</b>, focused on full stack development and distributed systems, building things like CI/CD pipelines, data pipelines, and cloud-native services. I like working close to infrastructure as much as I like writing application code.
-<br><br>
-</p>
+
 
 <br>
 
