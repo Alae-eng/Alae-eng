@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alae</h1>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EF67C&center=true&vCenter=true&width=700&lines=whoami;software+engineer+%40+ENSIAS;backend+%26+distributed+systems;data-driven+engineering;learning%3A+cloud+%E2%80%A2+devops+%E2%80%A2+kubernetes;AWS+Certified+%E2%98%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EF67C&center=true&vCenter=true&width=700&lines=whoami;software+engineer+%40+ENSIAS;backend+%26+distributed+systems;learning%3A+cloud+%E2%80%A2+devops+%E2%80%A2+kubernetes;AWS+Certified+%E2%98%81" alt="Typing SVG" />
 
 </div>
 
